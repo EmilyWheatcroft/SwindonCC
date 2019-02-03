@@ -148,6 +148,14 @@ section#find-us {
     justify-content: center;
 }
 
+section#venue {
+    background:
+    linear-gradient(
+      rgba(102, 98, 91, 0.45), 
+      rgba(102, 98, 91, 0.45)
+    ), url('../img/Football.jpg') center;
+}
+
 @media screen and (min-width: 900px) {
     section#venue {
         padding: 0 25%;
